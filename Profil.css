@@ -1,0 +1,350 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:400,600");
+
+.halaman-profil {
+    align-items: center;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    height: 982px;
+    width: 1512px;
+}
+
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.overlap-group2 {
+    align-items: center;
+    background-color: var(--alto);
+    display: flex;
+    height: 85px;
+    min-width: 1812px;
+    padding: 17.6px 22px;
+}
+
+.halaman-profil .image{
+    align-self: flex-end;
+    object-fit: cover;
+}
+
+.image-7{
+    height: 38px;
+    margin-bottom: 1.41px;
+    margin-left: 573px;
+    width: 41px;
+}
+
+.valign-text-middle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.sign-in-sign-up{
+    height: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    text-align: center;
+    width: 183px;
+}
+
+.component-3{
+    align-items: flex-start;
+    display: flex;
+    height: 34px;
+    justify-content: flex-end;
+    margin-bottom: 1px;
+    margin-left: 34px;
+    min-width: 751px;
+}
+
+.overlap-group{
+    height: 35px;
+    margin-top: -1px;
+    position: relative;
+    width: 682px;
+}
+
+.rectangle-22{
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--black);
+    border-radius: 20px;
+    height: 34px;
+    left: 300px;
+    opacity: 0.2;
+    position: absolute;
+    top: 1px;
+    width: 682px;
+}
+
+.search{
+    color: #8f8e8e;
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-s2);
+    font-weight: 600;
+    height: 34px;
+    left: 300px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 682px;
+}
+
+.image-5{
+    height: 42px;
+    margin-left: 32px;
+    width: 40px;
+}
+
+.place {
+    align-self: flex-start;
+    height: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 100px;
+}
+
+.overlap-group-container{
+    align-items: flex-start;
+    display: flex;
+    gap: 58px;
+    margin-right: 33.99px;
+    min-width: 1418px;
+}
+
+.overlap-group1{
+    height: 764px;
+    position: relative;
+    width: 1056px;
+}
+
+.select-photo{
+    height: 42px;
+    left: 562px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 376px;
+    width: 248px;
+}
+
+.rectangle-61{
+    background-color: var(--alto);
+    height: 42px;
+    left: 562px;
+    position: absolute;
+    top: 377px;
+    width: 248px;
+}
+
+.rectangle-60{
+    background-color: var(--alto);
+    height: 187px;
+    left: 562px;
+    position: absolute;
+    top: 160px;
+    width: 248px;
+}
+
+.change-personal-data{
+    left: 900px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 160px;
+    width: 248px;
+}
+
+.rectangle-57{
+    background-color: var(--alto);
+    border-radius: 25px;
+    margin-left: 350px;
+    height: 764px;
+    left: 1px;
+    position: absolute;
+    top: 0;
+    width: 1195px;
+}
+
+.rectangle-98{
+    height: 54px;
+    left: 660px;
+    object-fit: cover;
+    position: absolute;
+    top: 226px;
+    width: 54px;
+}
+
+.rectangle-59{
+    background-color: #eeeeee;
+    height: 372px;
+    left: 542px;
+    position: absolute;
+    top: 140px;
+    width: 289px;
+}
+
+.halaman-profil .line{
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+}
+
+.line-2{
+    top: 88px;
+    margin-left: 350px;
+    width: 1196px;
+}
+
+.personal-data-addres{
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-l);
+    font-weight: 400;
+    height: 64px;
+    left: 480px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 10px;
+    width: 994px;
+}
+
+.overlap-group3{
+    height: 764px;
+    position: relative;
+    width: 304px;
+}
+
+.user{
+    height: 61px;
+    left: 185px;
+    letter-spacing: 0;
+    margin-top: 160px;
+    line-height: 0;
+    position: absolute;
+    text-align: center;
+    top: 27px;
+    width: 97px;
+}
+
+.ellipse-3{
+    height: 61px;
+    left: 88px;
+    object-fit: cover;
+    margin-top: 160px;
+    position: absolute;
+    top: 28px;
+    width: 61px;
+}
+
+.inbox-chat-product-d{
+    left: 82px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 140px;
+    position: absolute;
+    top: 128px;
+    width: 265px;
+}
+
+.rectangle-56{
+    background-color: var(--alto);
+    border-radius: 25px;
+    height: 764px;
+    left: 50px;
+    margin-top: 150px;
+    position: absolute;
+    top: 15px;
+    width: 303px;
+}
+
+.line-1{
+    top: 258px;
+    margin-left: 50px;
+    width: 304px;
+}
+
+:root {
+    --black: rgba(0, 0, 0, 1);
+    --ultamarine: rgba(19, 8, 145, 1);
+    --stack: rgba(143, 142, 142, 1);
+    --alto: rgba(217, 217, 217, 1);
+    --white: rgba(255, 255, 255, 1);
+
+    --font-size-m: 15px;
+    --font-size-l: 16px;
+    --font-size-s2: 10px;
+    --font-size-m2: 12px;
+    --font-size-l2: 14px;
+    
+    --font-family-inter: "Inter";
+}
+
+.inter-semi-bold-stack-10px {
+    color: var(--stack);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-s2);
+    font-weight: 600;
+    font-style: normal;
+}
+
+.inter-semi-bold-black-10px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-s2);
+    font-weight: 600;
+    font-style: normal;
+}
+
+.inter-semi-bold-black-12px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-m2);
+    font-weight: 600;
+    font-style: normal;
+}
+
+.inter-semi-bold-black-15px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-m);
+    font-weight: 600;
+    font-style: normal;
+}
+
+.inter-normal-black-15px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.inter-semi-bold-white-12px {
+    color: var(--white);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-m2);
+    font-weight: 600;
+    font-style: normal;
+}
+
+.inter-semi-bold-black-14px {
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-l2);
+    font-weight: 600;
+    font-style: normal;
+}
